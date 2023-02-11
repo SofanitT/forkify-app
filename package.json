@@ -1,0 +1,27 @@
+{
+  "name": "frokify-app",
+  "version": "1.0.0",
+  "description": "A recipe app",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofanitT/forkify-app.git"
+  },
+  "author": "Sofanit Tesfaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofanitT/forkify-app/issues"
+  },
+  "homepage": "https://github.com/SofanitT/forkify-app#readme",
+  "devDependencies": {
+    "core-js": "^3.27.2",
+    "fractional": "^1.0.0",
+    "parcel": "^2.0.0-beta.1",
+    "regenerator-runtime": "^0.13.11",
+    "sass": "^1.57.1"
+  }
+}
